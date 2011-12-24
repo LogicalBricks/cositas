@@ -1,0 +1,6 @@
+Para instalar los temas de Burg es necesario hacer lo siguiente:
+
+- Copiar la carpeta del tema (ej. logicalbricks) dentro de /boot/burg/themes
+- Ejecutar el comando 
+   sudo update-burg
+- Elegir el tema al momento del booteo (presionando la letra t mientras bootea)

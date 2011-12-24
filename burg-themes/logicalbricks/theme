@@ -1,0 +1,112 @@
+include "../minimum/template"
+
+screen {
+  background = "$$/desktop.jpg,center,#000000/light-gray/black"
+
+  panel {
+    extend = 0
+    valign = center
+    halign = center
+
+    panel {
+      direction = left_to_right
+      space = 2
+      id = __menu__
+      max_items = 4
+    }
+  }
+
+  panel {
+    id = __timeout__
+    attach_bottom = 2
+    width = 60%
+    halign = center
+    height = 1
+
+    progressbar {
+      width = 100%
+      height = 100%
+      color = "#6b6662/red:#181413/brown"
+
+    }
+  }
+}
+
+template_menuitem {
+  panel {
+    parameters = "class=image.class"
+    image {}
+    image { image = "$$/empty.png:$$/dot.png" halign = "center" }
+  }
+}
+
+template_submenu {
+  panel {
+    class = box
+  }
+}
+
+template_popup {
+  panel {
+    attach_hcenter = 0
+    attach_vcenter = 0
+    class = box
+  }
+}
+
+template_subitem {
+  panel {
+    parameters = "class=dummy:title=text.text"
+    direction = left_to_right
+    space = 1
+    image { image = "$$/empty2.png:$$/dot2.png" }
+    text {}
+  }
+}
+
+class {
+  screen {
+    background = ",,#BFBFBF/blue"
+  }
+
+  text {
+    color = "#6b6662/light-gray/blue:#6b6662/light-gray/green"
+  }
+
+  frame {
+    top_left = ",,#000000/cyan/blue,#0x250F:,,#000000/light-gray/blue,#0x2554"
+    top = ",tiling,#000000/cyan/blue,#0x2501:,,#000000/light-gray/blue,#0x2550"
+    top_right = ",,#000000/cyan/blue,#0x2513:,,#000000/light-gray/blue,#0x2557"
+    left = ",tiling,#000000/cyan/blue,#0x2503:,,#000000/light-gray/blue,#0x2551"
+    right = ",tiling,#000000/cyan/blue,#0x2503:,,#000000/light-gray/blue,#0x2551"
+    bottom_left = ",,#000000/cyan/blue,#0x2517:,,#000000/light-gray/blue,#0x255A"
+    bottom = ",tiling,#000000/cyan/blue,#0x2501:,,#000000/light-gray/blue,#0x2550"
+    bottom_right = ",tiling,#000000/cyan/blue,#0x251B:,,#000000/light-gray/blue,#0x255D"
+  }
+
+  box {
+      top_left = "$$/menu_tl.png,,light-gray/blue,#0x2554"
+      top = "$$/menu_t.png,,light-gray/blue,#0x2550"
+      top_right = "$$/menu_tr.png,,light-gray/blue,#0x2557"
+      left = "$$/menu_l.png,,light-gray/blue,#0x2551"
+      right = "$$/menu_r.png,,light-gray/blue,#0x2551"
+      bottom_left = "$$/menu_bl.png,,light-gray/blue,#0x255A"
+      bottom = "$$/menu_b.png,,light-gray/blue,#0x2550"
+      bottom_right = "$$/menu_br.png,,light-gray/blue,#0x255D"
+      background = ":,,#181413/green,#0"
+  }
+
+  term {
+    color = "cyan/blue:light-gray/blue"
+  }
+
+  edit {
+    color = "#6b6662/cyan/blue:light-gray/blue"
+  }
+
+  password {
+    color = "#6b6662/cyan/blue:light-gray/blue"
+  }
+}
+
+include "../icons/grey"

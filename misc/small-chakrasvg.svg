@@ -18,7 +18,7 @@
    version="1.0"
    sodipodi:docname="small-chakrasvg.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:export-filename="/home/thot/logicalbricks/cositas/misc/small-chakra.png"
+   inkscape:export-filename="/home/thot/logicalbricks/cositas/misc/grey_chakra.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -156,36 +156,36 @@
     <g
        id="g7239"
        transform="matrix(-0.1853266,-0.04190697,-0.04315597,0.17996295,14.245322,-2.8118539)"
-       style="fill:#3d3d3d;fill-opacity:1">
+       style="fill:#1a1a1a;fill-opacity:1">
       <path
          inkscape:connector-curvature="0"
          id="path7241"
          d="m -506.25366,308.19843 c -39.482,-45.46999 -3.8907,-35.25183 13.7488,-89.11367 16.84641,-51.44043 116.31385,190.3941 163.79538,86.60268 -25.60133,91.54221 -137.68701,48.41296 -177.54418,2.51099 z"
-         style="fill:#3d3d3d;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none"
          sodipodi:nodetypes="cscz" />
       <path
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cscz"
-         style="fill:#3d3d3d;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none"
          d="m -371.78643,452.23948 c -55.44514,23.49861 -34.72877,-7.19314 -80.50352,-40.61353 -43.71695,-31.91789 217.01851,-51.78607 132.97961,-129.017 79.15057,52.63641 3.49583,145.90856 -52.47609,169.63053 z"
          id="path7243" />
       <path
          inkscape:connector-curvature="0"
          id="path7245"
          d="m -193.23008,368.86226 c 5.21501,59.99293 -17.57287,30.80622 -63.50272,64.01313 -43.86499,31.71409 17.81093,-222.39965 -81.6095,-166.33957 74.51907,-59.01112 139.84756,41.76349 145.11222,102.32644 z"
-         style="fill:#3d3d3d;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none"
          sodipodi:nodetypes="cscz" />
       <path
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cscz"
-         style="fill:#3d3d3d;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none"
          d="m -217.36156,173.28976 c 58.66819,13.57906 23.86814,26.23244 41.25667,80.17582 16.60688,51.51828 -206.01075,-85.66447 -183.41704,26.21348 -33.09526,-89.10727 82.9347,-120.0973 142.16037,-106.3893 z"
          id="path7247" />
       <path
          inkscape:connector-curvature="0"
          id="path7249"
          d="m -410.80165,135.79109 c 31.04392,-51.600607 32.32419,-14.59368 89.00075,-14.46175 54.1286,0.12596 -145.13258,169.45609 -31.74848,182.5404 -94.97305,3.93979 -88.59108,-115.9877 -57.25227,-168.07865 z"
-         style="fill:#3d3d3d;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none"
          sodipodi:nodetypes="cscz" />
     </g>
   </g>

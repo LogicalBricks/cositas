@@ -17,7 +17,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="logicalbricks2.svg">
+   sodipodi:docname="logicalbricks2.svg"
+   inkscape:export-filename="/home/thot/logicalbricks/cositas/wallpapers/sources/logicalbricks2.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
     <linearGradient
@@ -95,9 +98,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.26818103"
-     inkscape:cx="454.12726"
-     inkscape:cy="945.81226"
+     inkscape:zoom="0.49224396"
+     inkscape:cx="1097.0786"
+     inkscape:cy="755.08949"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -129,31 +132,36 @@
        height="1080"
        width="1920"
        id="rect6523"
-       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1" />
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
+       inkscape:export-filename="/home/thot/logicalbricks/cositas/wallpapers/sources/logicalbricks2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="color:#000000;fill:url(#pattern6383);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.45138889"
        id="rect6374"
        width="1920"
        height="1080"
        x="0"
-       y="-27.637848" />
-    <rect
-       style="fill:url(#pattern6388);stroke:none"
-       width="209.991"
-       height="180.791"
-       x="900.05566"
-       y="-261.78763"
-       id="rect6386" />
+       y="-27.637848"
+       inkscape:export-filename="/home/thot/logicalbricks/cositas/wallpapers/sources/logicalbricks2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="color:#000000;fill:url(#radialGradient6533);fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:0.50000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
        id="rect6525"
        width="1920"
        height="1080"
        x="0"
-       y="-27.637848" />
+       y="-27.637848"
+       inkscape:export-filename="/home/thot/logicalbricks/cositas/wallpapers/sources/logicalbricks2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
        id="g6713"
-       transform="matrix(3.0097895,0,0,3.0097895,-2845.2367,801.0332)">
+       transform="matrix(1.6087271,0,0,1.6087271,-1073.8922,666.65631)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/thot/logicalbricks/cositas/wallpapers/sources/logicalbricks2.png">
       <g
          style="fill:#ffffff"
          transform="translate(592.85809,-785.41574)"

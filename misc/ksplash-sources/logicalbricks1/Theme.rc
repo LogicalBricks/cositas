@@ -1,0 +1,8 @@
+[KSplash Theme: LogicalBricks]
+Name = LogicalBricks Theme
+Description = LogicalBricks Splash Screen Theme based on NEDA Splash Screen Theme For Chakra Project.
+Version = 0.3
+Author = Hermes Ojeda Ruiz
+
+# Theme behaviour settings.
+Engine = KSplashX

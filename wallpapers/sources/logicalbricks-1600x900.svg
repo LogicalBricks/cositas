@@ -18,7 +18,7 @@
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="logicalbricks-1600x900.svg"
-   inkscape:export-filename="/home/thot/logicalbricks/cositas/wallpapers/images/LogicalBricks2-1920x1080.png"
+   inkscape:export-filename="/home/thot/logicalbricks/cositas/wallpapers/images/LogicalBricks2-1600x1900.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -122,7 +122,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
